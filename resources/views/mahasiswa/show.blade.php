@@ -24,7 +24,7 @@
                         </form>
 
                         <button class="btn btn-info"><a href="/ujian" style="text-decoration:none; color: rgb(247, 241, 241)
-                                                                                            "
+                                                                                                        "
                                 class="card-link">Kembali</a></button>
                     </div>
                 </div>
